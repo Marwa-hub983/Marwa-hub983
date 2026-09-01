@@ -57,26 +57,38 @@ I enjoy turning UI/UX designs into functional applications, integrating APIs, im
 * Reusable Widgets
 * Responsive UI
   
-🛠️ Tools & Platforms
-💻 Development
-Flutter — Cross-platform app development
-Dart — Programming language
-Android Studio — Android development & debugging
-VS Code — Code editor
-🔌 API Development & Testing
-Dio — HTTP client for API integration
-Hoppscotch — API testing and debugging
-Postman — API testing and documentation
-🔥 Backend & Services
-Firebase — Authentication, database and cloud services
-🎨 UI/UX
-Figma — UI/UX design and design handoff
-🔧 Version Control
-Git — Version control
-GitHub — Source code management and collaboration
-🧪 Testing & Debugging
-Flutter DevTools — Performance monitoring and debugging
-Firebase Crashlytics — Crash reporting and application monitoring
+## 🛠️ Tools & Platforms
+
+### 💻 Development
+
+- **Flutter** — Cross-platform app development
+- **Dart** — Programming language
+- **Android Studio** — Android development & debugging
+- **VS Code** — Code editor
+
+### 🔌 API Development & Testing
+
+- **Dio** — HTTP client for API integration
+- **Hoppscotch** — API testing and debugging
+- **Postman** — API testing and documentation
+
+### 🔥 Backend & Services
+
+- **Firebase** — Authentication, database, and cloud services
+
+### 🎨 UI/UX
+
+- **Figma** — UI/UX design and design handoff
+
+### 🔧 Version Control
+
+- **Git** — Version control
+- **GitHub** — Source code management and collaboration
+
+### 🧪 Testing & Debugging
+
+- **Flutter DevTools** — Performance monitoring and debugging
+- **Firebase Crashlytics** — Crash reporting and application monitoring
 
 # 🚀 Featured Projects
 
