@@ -177,7 +177,7 @@ lib/
 ├── models/
 ├── repositories/
 └── main.dart
-
+```
 # 💡 What I Can Do
 ✓ Build Flutter applications from Figma designs
 ✓ Develop responsive Android & iOS interfaces
