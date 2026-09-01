@@ -56,15 +56,27 @@ I enjoy turning UI/UX designs into functional applications, integrating APIs, im
 * Dependency Injection
 * Reusable Widgets
 * Responsive UI
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Hopscotch](https://img.shields.io/badge/Hopscotch-FF6B35?style=for-the-badge)
+  
+🛠️ Tools & Platforms
+💻 Development
+Flutter — Cross-platform app development
+Dart — Programming language
+Android Studio — Android development & debugging
+VS Code — Code editor
+🔌 API Development & Testing
+Dio — HTTP client for API integration
+Hoppscotch — API testing and debugging
+Postman — API testing and documentation
+🔥 Backend & Services
+Firebase — Authentication, database and cloud services
+🎨 UI/UX
+Figma — UI/UX design and design handoff
+🔧 Version Control
+Git — Version control
+GitHub — Source code management and collaboration
+🧪 Testing & Debugging
+Flutter DevTools — Performance monitoring and debugging
+Firebase Crashlytics — Crash reporting and application monitoring
 
 # 🚀 Featured Projects
 
@@ -123,23 +135,20 @@ A Flutter quiz application demonstrating local data persistence and state manage
 
 ---
 
-# 🏗️ Development Approach
+## 🏗️ Development Approach
 
-I focus on writing applications that are:
-┌──────────────────────────────┐
-│       Clean & Scalable       │
-├──────────────────────────────┤
-│      Reusable Components     │
-├──────────────────────────────┤
-│      Proper State Management │
-├──────────────────────────────┤
-│       API Error Handling     │
-├──────────────────────────────┤
-│       Responsive UI/UX       │
-└──────────────────────────────┘
+I focus on building Flutter applications that are:
 
+- 🧹 **Clean & Scalable** — Maintainable code and clear project structure
+- ♻️ **Reusable** — Reusable widgets and common components
+- 🔄 **Well-Managed** — Proper state management using BLoC/Cubit
+- 🌐 **API-Ready** — REST API integration with proper error handling
+- 📱 **Responsive** — Consistent UI across different screen sizes
+- 🐛 **Reliable** — Debugging, testing, and performance optimization
 
-My typical Flutter project structure:
+### 📂 Typical Flutter Project Structure
+
+```text
 lib/
 ├── core/
 │   ├── constants/
