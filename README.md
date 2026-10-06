@@ -196,7 +196,6 @@ lib/
 
 * Advanced Flutter Architecture
 * System Design
-* Firebase
 * Cloud Technologies
 * AI Integration with Flutter
 * Performance Optimization
