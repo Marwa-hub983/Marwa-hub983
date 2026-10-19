@@ -22,6 +22,32 @@ I enjoy turning UI/UX designs into functional applications, integrating APIs, im
 * 💼 Open to **Flutter Developer opportunities**
 
 ---
+# 🔨 Currently Building
+
+## 🧠 Vault: Personal Knowledge Vault (RAG)
+
+A cross-platform (iOS + Android) app where you upload documents and ask questions in chat. Answers come only from your own files, with the exact source cited for every answer.
+
+> 🚧 **Status:** In progress. UI and local database phase.
+
+### What I'm building
+* 📄 Document upload with processing status (Uploaded → Processing → Ready)
+* 💬 Chat with streamed answers and source citations
+* 🔎 Retrieval using chunking and embeddings (RAG)
+* 🗄️ Local storage with SQLite (drift)
+* 🔐 Firebase Authentication
+* ⚙️ CI/CD with GitHub Actions
+
+### What I'm learning from it
+* Node.js backend and REST API design
+* SQL and database design
+* RAG pipeline: chunking, embeddings, retrieval
+* CI/CD pipelines
+* iOS-specific platform handling
+
+**Tech:** Flutter • Dart • BLoC • GoRouter • Dio • SQLite (drift) • Node.js • Firebase • GitHub Actions
+
+🔗 [View repository](https://github.com/Marwa-hub983/knowledgeVault_app)
 
 ## 🛠️ Tech Stack
 
